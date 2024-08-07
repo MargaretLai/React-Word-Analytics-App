@@ -1,4 +1,3 @@
-import React from "react";
 import BackgroundImage from "./BackgroundImage.jsx";
 import H1 from "./H1"
 
