@@ -1,9 +1,3 @@
-# React + Vite
+This is a word analytic app built to help with efficient text editing. It displays word count, character count, character count left for an Instagram/Facebook post when user type in textarea. 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# React-Word-Analytics-App
+This React.js project is created via Vite (https://vitejs.dev/guide/), to run this project, please make sure you have all json packages installed. 
